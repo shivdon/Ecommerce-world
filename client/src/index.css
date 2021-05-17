@@ -1,0 +1,17 @@
+.slider img{
+    height: 450px;
+    object-fit: cover;
+}
+
+.cart-details{
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sidedrawer-image{
+    height: 120px;
+    width: 150px;
+    object-fit: cover;
+    padding-bottom:10px;
+}
