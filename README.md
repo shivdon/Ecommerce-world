@@ -58,6 +58,11 @@ REACT_APP_API='http://localhost:8000/api'
 REACT_APP_STRIPE_KEY=(get Your key from stripe by following the step 2 and paste here)
 ```
 
+**step 3.5**: Installing dependencies in client folder:
+```
+npm install
+```
+
 **Step 4**: start the FrontEnd React Server:
 
 ```
@@ -90,6 +95,10 @@ CLOUDINARY_API_KEY=(cloud_key from step 6 cloudinary setup)
 CLOUDINARY_API_SECRET=(cloud_secret from step 6 cloudinary setup)
 
 STRIPE_SECRET=(from step 2 stripe secret)
+```
+**step 7.5**: Installing dependencies in server folder:
+```
+npm install
 ```
 
 **Step 8**: Run the Server 
